@@ -1,0 +1,9 @@
+Pharmacy Management System
+
+Language: Python
+IDE: PyCharm
+Storage: JSON
+GUI: Tkinter
+
+Purpose:
+To manage pharmacy stock, purchases, sales and reports.
