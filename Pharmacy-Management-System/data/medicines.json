@@ -1,0 +1,32 @@
+{
+    "Medicines": [
+        {
+            "Name": "Risek",
+            "P_Price": 20,
+            "S_price": 50,
+            "Batch": "ri1",
+            "Quantity": 50
+        },
+        {
+            "name": "Panadol",
+            "P_price": 18,
+            "S_price": 20,
+            "Batch": "Pa2",
+            "Quantity": 20
+        },
+        {
+            "Name": "Flagyl",
+            "P_Price": 20,
+            "S_price": 35,
+            "Batch": "fl1",
+            "Quantity": 50
+        },
+        {
+            "Name": "concor",
+            "P_Price": 10,
+            "S_price": 20,
+            "Batch": "co1",
+            "Quantity": 50
+        }
+    ]
+}

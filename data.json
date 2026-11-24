@@ -1,0 +1,16 @@
+{
+    "Medicines": [
+        {
+            "Name": "Risek",
+            "P_Price": 20,
+            "S_price": 50,
+            "Batch": "ri2"
+        },
+        {
+            "name": "Panadol",
+            "P_price": 18,
+            "S_price": 20,
+            "Batch": "Pa2"
+        }
+    ]
+}
