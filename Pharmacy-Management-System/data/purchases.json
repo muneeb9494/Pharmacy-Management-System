@@ -1,0 +1,11 @@
+[
+    {
+        "Purchase_ID": 1,
+        "Name": "calpol",
+        "Batch": "ca2",
+        "P_Price": 33.0,
+        "Quantity": 70,
+        "Total": 2310.0,
+        "Date": "2026-11-28 03:00:42"
+    }
+]

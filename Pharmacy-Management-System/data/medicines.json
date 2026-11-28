@@ -8,8 +8,8 @@
             "Quantity": 50
         },
         {
-            "name": "Panadol",
-            "P_price": 18,
+            "Name": "Panadol",
+            "P_Price": 18,
             "S_price": 20,
             "Batch": "Pa2",
             "Quantity": 20
@@ -26,7 +26,14 @@
             "P_Price": 10,
             "S_price": 20,
             "Batch": "co1",
-            "Quantity": 50
+            "Quantity": 80
+        },
+        {
+            "Name": "brufen",
+            "P_Price": 20,
+            "S_price": 30,
+            "Batch": "br1",
+            "Quantity": 100
         }
     ]
 }
